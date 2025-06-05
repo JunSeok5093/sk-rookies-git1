@@ -1,4 +1,4 @@
 # PR type
-안녕
+테스트
 # PR Reason
-하세요
+테스트
